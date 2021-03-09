@@ -1,0 +1,19 @@
+h1{
+  color: rgb(0, 236, 39);
+}
+
+.lis{
+  color: rgb(94, 38, 6);
+}
+
+.conCor{
+  color: antiquewhite;
+}
+
+.tam{
+  width: 10%;
+  height: 10%;
+  /* padding: 10px 10px 10px 10px; */
+  margin: 20px auto ;
+
+}
